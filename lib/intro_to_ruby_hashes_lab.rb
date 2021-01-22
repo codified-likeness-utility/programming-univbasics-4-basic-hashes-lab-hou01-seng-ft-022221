@@ -3,7 +3,11 @@ def new_hash
 end
 
 def my_hash
-  # return a valid hash with any key/value pair of your choice
+  computer = {
+    processor: "AMD Threadripper"
+    gpu: "Nvidia RTX 3090"
+    ram: 32
+  }
 end
 
 def pioneer
