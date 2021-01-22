@@ -24,3 +24,4 @@ def id_hash_generator(number)
     id: id_hash_generator(number)
   }
 end
+end
