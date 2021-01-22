@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  computer = {
+  {
     processor: "AMD Threadripper"
     gpu: "Nvidia RTX 3090"
     ram: 32
