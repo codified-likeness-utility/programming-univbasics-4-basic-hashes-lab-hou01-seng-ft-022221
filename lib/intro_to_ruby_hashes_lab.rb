@@ -4,8 +4,8 @@ end
 
 def my_hash
   {
-    processor: "AMD Threadripper"
-    gpu: "Nvidia RTX 3090"
+    processor: "AMD Threadripper",
+    gpu: "Nvidia RTX 3090",
     ram: 32
   }
 end
